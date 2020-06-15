@@ -1,0 +1,39 @@
+.single-album-container {
+  position: relative;
+  margin: 12px 0;
+  height: 100px;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.album-img-container {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+}
+
+.album-img {
+  height: 100%;
+  width: 100%;
+}
+
+.right-side {
+  margin-left: 110px;
+}
+
+.album-name {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.album-artists {
+  font-size: 12px;
+  margin-top: 4px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.album-preview {
+  margin: 16px 0;
+  height: 32px;
+}

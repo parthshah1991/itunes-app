@@ -1,0 +1,21 @@
+.search-artist-container {
+  margin-top: 45px;
+}
+
+.search-input {
+  height: 40px;
+  font-size: 22px;
+  width: 400px;
+}
+
+.search-button {
+  height: 40px;
+  display: inline-block;
+  vertical-align: top;
+  width: 120px;
+  background-color: #7323dc;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+}
